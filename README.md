@@ -41,6 +41,8 @@ no terminal digite :
 
 npm install tailwindcss @tailwindcss/vite
 
+Tailwind CSS IntelliSense
+
 
 no arquivo vite.config.js
 
